@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Wassup Peeps - This is Colden's Radical Website
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,14 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Colden's World
+email: Keith.tobias78@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  This is my first website.  I plan to use it as a splash page for all the cool stuff
+  that I like.  You can check out the cool stuff too!  Thanks for visiting!
+  
+  You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.coldentobias.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
